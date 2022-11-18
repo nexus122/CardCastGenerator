@@ -1,5 +1,10 @@
 {
+  "scripts": {
+    "start":"node index.js & node index2.js"
+  },
   "dependencies": {
-    "jimp": "^0.16.2"
+    "jimp": "^0.16.2",
+    "pdfkit": "^0.13.0",
+    "rxjs": "^7.5.7"
   }
 }
